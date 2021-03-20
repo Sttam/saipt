@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/media/sf_share/saipt/ch22/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/media/sf_share/saipt/ch22/inc  -g   -std=c++17 -o CMakeFiles/s22_00101.dir/src/s22_00101.cpp.o -c /media/sf_share/saipt/ch22/src/s22_00101.cpp",
+  "file": "/media/sf_share/saipt/ch22/src/s22_00101.cpp"
+}
+]

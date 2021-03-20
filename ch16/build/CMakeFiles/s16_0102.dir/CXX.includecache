@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/s16_0102.hpp
+
+/media/sf_share/saipt/ch16/src/s16_0102.cpp
+iostream
+-
+s16_0102.hpp
+-
+

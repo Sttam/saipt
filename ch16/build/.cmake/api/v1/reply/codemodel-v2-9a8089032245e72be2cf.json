@@ -1,0 +1,167 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ch16",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "s16_0101::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-s16_0101-Debug-dae7854aec7fa64e3bc3.json",
+					"name" : "s16_0101",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "s16_0102::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-s16_0102-Debug-91a8baf4adfb6e3303bf.json",
+					"name" : "s16_0102",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "s16_0201::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-s16_0201-Debug-9de9711b34936d0bf929.json",
+					"name" : "s16_0201",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "s16_0202::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-s16_0202-Debug-f4569139d755d078846b.json",
+					"name" : "s16_0202",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "s16_0203::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-s16_0203-Debug-f01bc53494658e93b11c.json",
+					"name" : "s16_0203",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "s16_0204::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-s16_0204-Debug-0912969d28235a53ef46.json",
+					"name" : "s16_0204",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "s16_0205::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-s16_0205-Debug-f94926015bd99030314a.json",
+					"name" : "s16_0205",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "s16_0206::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-s16_0206-Debug-3e2361156b8ff4656227.json",
+					"name" : "s16_0206",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "s16_0207::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-s16_0207-Debug-ecb064e999461fadf3d6.json",
+					"name" : "s16_0207",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "s16_0208::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-s16_0208-Debug-c356ab4da32134f59a92.json",
+					"name" : "s16_0208",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "s16_0209::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-s16_0209-Debug-68aafd083e915cf5d851.json",
+					"name" : "s16_0209",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "s16_0210::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-s16_0210-Debug-9f95c21bfc766d055d79.json",
+					"name" : "s16_0210",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "s16_0301::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-s16_0301-Debug-369a43a81f754863bf7e.json",
+					"name" : "s16_0301",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/media/sf_share/saipt/ch16/build",
+		"source" : "/media/sf_share/saipt/ch16"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

@@ -1,0 +1,15 @@
+/media/sf_share/saipt/ch01/build/CMakeFiles/rebuild_cache.dir
+/media/sf_share/saipt/ch01/build/CMakeFiles/edit_cache.dir
+/media/sf_share/saipt/ch01/build/CMakeFiles/s01_00101.dir
+/media/sf_share/saipt/ch01/build/CMakeFiles/s01_00102.dir
+/media/sf_share/saipt/ch01/build/CMakeFiles/s01_00103.dir
+/media/sf_share/saipt/ch01/build/CMakeFiles/s01_00104.dir
+/media/sf_share/saipt/ch01/build/CMakeFiles/s01_00201.dir
+/media/sf_share/saipt/ch01/build/CMakeFiles/s01_00501.dir
+/media/sf_share/saipt/ch01/build/CMakeFiles/s01_00602.dir
+/media/sf_share/saipt/ch01/build/CMakeFiles/s01_00301.dir
+/media/sf_share/saipt/ch01/build/CMakeFiles/s01_00401.dir
+/media/sf_share/saipt/ch01/build/CMakeFiles/s01_00402.dir
+/media/sf_share/saipt/ch01/build/CMakeFiles/s01_00403.dir
+/media/sf_share/saipt/ch01/build/CMakeFiles/s01_00701.dir
+/media/sf_share/saipt/ch01/build/CMakeFiles/s01_00601.dir

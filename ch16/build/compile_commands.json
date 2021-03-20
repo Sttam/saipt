@@ -1,0 +1,67 @@
+[
+{
+  "directory": "/media/sf_share/saipt/ch16/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/media/sf_share/saipt/ch16/inc  -g   -std=c++17 -o CMakeFiles/s16_0101.dir/src/s16_0101.cpp.o -c /media/sf_share/saipt/ch16/src/s16_0101.cpp",
+  "file": "/media/sf_share/saipt/ch16/src/s16_0101.cpp"
+},
+{
+  "directory": "/media/sf_share/saipt/ch16/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/media/sf_share/saipt/ch16/inc  -g   -std=c++17 -o CMakeFiles/s16_0102.dir/src/s16_0102.cpp.o -c /media/sf_share/saipt/ch16/src/s16_0102.cpp",
+  "file": "/media/sf_share/saipt/ch16/src/s16_0102.cpp"
+},
+{
+  "directory": "/media/sf_share/saipt/ch16/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/media/sf_share/saipt/ch16/inc  -g   -std=c++17 -o CMakeFiles/s16_0202.dir/src/s16_0202.cpp.o -c /media/sf_share/saipt/ch16/src/s16_0202.cpp",
+  "file": "/media/sf_share/saipt/ch16/src/s16_0202.cpp"
+},
+{
+  "directory": "/media/sf_share/saipt/ch16/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/media/sf_share/saipt/ch16/inc  -g   -std=c++17 -o CMakeFiles/s16_0201.dir/src/s16_0201.cpp.o -c /media/sf_share/saipt/ch16/src/s16_0201.cpp",
+  "file": "/media/sf_share/saipt/ch16/src/s16_0201.cpp"
+},
+{
+  "directory": "/media/sf_share/saipt/ch16/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/media/sf_share/saipt/ch16/inc  -g   -std=c++17 -o CMakeFiles/s16_0204.dir/src/s16_0204.cpp.o -c /media/sf_share/saipt/ch16/src/s16_0204.cpp",
+  "file": "/media/sf_share/saipt/ch16/src/s16_0204.cpp"
+},
+{
+  "directory": "/media/sf_share/saipt/ch16/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/media/sf_share/saipt/ch16/inc  -g   -std=c++17 -o CMakeFiles/s16_0207.dir/src/s16_0207.cpp.o -c /media/sf_share/saipt/ch16/src/s16_0207.cpp",
+  "file": "/media/sf_share/saipt/ch16/src/s16_0207.cpp"
+},
+{
+  "directory": "/media/sf_share/saipt/ch16/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/media/sf_share/saipt/ch16/inc  -g   -std=c++17 -o CMakeFiles/s16_0209.dir/src/s16_0209.cpp.o -c /media/sf_share/saipt/ch16/src/s16_0209.cpp",
+  "file": "/media/sf_share/saipt/ch16/src/s16_0209.cpp"
+},
+{
+  "directory": "/media/sf_share/saipt/ch16/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/media/sf_share/saipt/ch16/inc  -g   -std=c++17 -o CMakeFiles/s16_0205.dir/src/s16_0205.cpp.o -c /media/sf_share/saipt/ch16/src/s16_0205.cpp",
+  "file": "/media/sf_share/saipt/ch16/src/s16_0205.cpp"
+},
+{
+  "directory": "/media/sf_share/saipt/ch16/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/media/sf_share/saipt/ch16/inc  -g   -std=c++17 -o CMakeFiles/s16_0210.dir/src/s16_0210.cpp.o -c /media/sf_share/saipt/ch16/src/s16_0210.cpp",
+  "file": "/media/sf_share/saipt/ch16/src/s16_0210.cpp"
+},
+{
+  "directory": "/media/sf_share/saipt/ch16/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/media/sf_share/saipt/ch16/inc  -g   -std=c++17 -o CMakeFiles/s16_0206.dir/src/s16_0206.cpp.o -c /media/sf_share/saipt/ch16/src/s16_0206.cpp",
+  "file": "/media/sf_share/saipt/ch16/src/s16_0206.cpp"
+},
+{
+  "directory": "/media/sf_share/saipt/ch16/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/media/sf_share/saipt/ch16/inc  -g   -std=c++17 -o CMakeFiles/s16_0208.dir/src/s16_0208.cpp.o -c /media/sf_share/saipt/ch16/src/s16_0208.cpp",
+  "file": "/media/sf_share/saipt/ch16/src/s16_0208.cpp"
+},
+{
+  "directory": "/media/sf_share/saipt/ch16/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/media/sf_share/saipt/ch16/inc  -g   -std=c++17 -o CMakeFiles/s16_0203.dir/src/s16_0203.cpp.o -c /media/sf_share/saipt/ch16/src/s16_0203.cpp",
+  "file": "/media/sf_share/saipt/ch16/src/s16_0203.cpp"
+},
+{
+  "directory": "/media/sf_share/saipt/ch16/build",
+  "command": "/bin/x86_64-linux-gnu-g++-9   -I/media/sf_share/saipt/ch16/inc  -g   -std=c++17 -o CMakeFiles/s16_0301.dir/src/s16_0301.cpp.o -c /media/sf_share/saipt/ch16/src/s16_0301.cpp",
+  "file": "/media/sf_share/saipt/ch16/src/s16_0301.cpp"
+}
+]

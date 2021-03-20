@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/s01_00601.dir/src/s01_00601.cpp.o  -o s01_00601 

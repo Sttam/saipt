@@ -1,10 +1,11 @@
 #include <iostream>
 using namespace std;
 /*
-    A friend.
-    Think y we only need to call for the date, but not for
-    printing the integer.
-*/
+ use of constructors
+ An example of lifecycle management function to 
+ deal the memory.
+
+*/ 
 
 class Date
 {
@@ -12,6 +13,7 @@ private:
     int d, m, y;
 
 public:
+    Date(int d = 0, int m = 0, int y = 0);
     void init_date(int, int, int); // initialize d
     void add_year(int n);          // add n years to d
     void add_month(int n);         // add n months to d
@@ -23,6 +25,12 @@ ostream &operator<<(ostream &s, Date &d)
 {
     s << "Day : " << d.d << " Month : " << d.m << " Year : " << d.y << endl;
     return s;
+}
+Date::Date(int dd, int mm, int yy)
+{
+    dd ? d = dd : d = 1;
+    mm ? m = mm : m = 1;
+    yy ? y = yy : y = 1970;
 }
 
 void Date::init_date(int dd, int mm, int yy)
@@ -46,14 +54,7 @@ void Date::add_month(int n)
 int main()
 {
 
-    Date d;
-    cout << d;
+    Date d{1,2};  cout << d;
 
-    d.init_date(1, 1, 2020);
-    cout << d;
-
-    Date c{d};
-    cout << c;
-    Date e = c;
-    cout << e;
+    Date c{d}; cout << c;
 }

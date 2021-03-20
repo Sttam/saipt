@@ -1,0 +1,15 @@
+/media/sf_share/saipt/ch16/build/CMakeFiles/rebuild_cache.dir
+/media/sf_share/saipt/ch16/build/CMakeFiles/edit_cache.dir
+/media/sf_share/saipt/ch16/build/CMakeFiles/s16_0101.dir
+/media/sf_share/saipt/ch16/build/CMakeFiles/s16_0102.dir
+/media/sf_share/saipt/ch16/build/CMakeFiles/s16_0202.dir
+/media/sf_share/saipt/ch16/build/CMakeFiles/s16_0201.dir
+/media/sf_share/saipt/ch16/build/CMakeFiles/s16_0204.dir
+/media/sf_share/saipt/ch16/build/CMakeFiles/s16_0207.dir
+/media/sf_share/saipt/ch16/build/CMakeFiles/s16_0209.dir
+/media/sf_share/saipt/ch16/build/CMakeFiles/s16_0205.dir
+/media/sf_share/saipt/ch16/build/CMakeFiles/s16_0210.dir
+/media/sf_share/saipt/ch16/build/CMakeFiles/s16_0206.dir
+/media/sf_share/saipt/ch16/build/CMakeFiles/s16_0208.dir
+/media/sf_share/saipt/ch16/build/CMakeFiles/s16_0203.dir
+/media/sf_share/saipt/ch16/build/CMakeFiles/s16_0301.dir

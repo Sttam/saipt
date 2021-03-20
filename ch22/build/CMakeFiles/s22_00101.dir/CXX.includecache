@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../inc/s22_00101.hpp
+
+/media/sf_share/saipt/ch22/src/s22_00101.cpp
+iostream
+-
+s22_00101.hpp
+-
+
