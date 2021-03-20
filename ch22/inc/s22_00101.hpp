@@ -17,7 +17,7 @@ protected:
 class Rectangle : public Shape {
 public:
   Rectangle(int w, int h) : Shape{w, h} {};
-  int getArea() { return (width * height); }
+  int getArea() { return width * height; }
 };
 } // namespace saip
 #endif
