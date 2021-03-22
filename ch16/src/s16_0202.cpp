@@ -25,6 +25,10 @@ ostream& operator<<( ostream &s, Date &d){
     return s;
 }
 
+/*
+    Note how the functions are named.
+    It is defined as return-type classname::member functionn name( Args ....)
+*/
 void Date::init_date(int dd, int mm, int yy){
     d = dd;
     m = mm;

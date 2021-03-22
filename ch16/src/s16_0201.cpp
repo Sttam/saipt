@@ -7,6 +7,13 @@ So please treat class and structure as same.
 This example is to show how disconnected the data memebers are.
 */
 
+/*
+Consider implementing the concept of a date using a struct to define the 
+representation of a Date and a set of functions for 
+manipulating variables.
+
+*/
+
 struct Date { 
     int d, m, y;
 };
@@ -48,3 +55,11 @@ int main(){
     cout << "Size of Date : " << sizeof(Date) << endl;
 
 }
+
+/*
+Drawback:
+There is no explicit connection between the Date and the function implementing
+the concept. Every programmer has to manipulate the variables to manage the 
+date.
+
+*/

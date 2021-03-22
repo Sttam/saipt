@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 /*
+    Access Control.
     A friend.
     Think y we only need to call for the date, but not for
     printing the integer.

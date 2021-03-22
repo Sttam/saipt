@@ -1,6 +1,17 @@
 /*
     Compiler carries out many default actions. If the default action is not 
-    what you need, you are responsible to alter the behavior. 
+    what you need, you are responsible to alter the behavior.
+
+    Default Copying ....
+
+    int x = 10; float y = 20.00;
+    How do you copy x and y together?
+    We talked about struct and copy of arrays.
+    ....
+    Think what compilers can do...
+
+
+
 
 */
 #include <iostream>
