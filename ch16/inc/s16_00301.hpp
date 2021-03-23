@@ -1,5 +1,9 @@
 #ifndef __S16_00301_hhp
 #define __S16_00301_hhp
+#include <iostream>
+#include <ostream>
+#include <istream>
+#include <string>
 
 namespace Chrono
 {
@@ -29,8 +33,8 @@ namespace Chrono
         int day() const;
         Month month() const;
         int year() const;
-        string string_rep() const;             // string representation
-        void char_rep(char s[], in max) const; // C-style string representation
+        std::string string_rep() const;             // string representation
+        void char_rep(char s[], int max) const; // C-style string representation
         // (modifying) functions for changing the Date:
         Date &add_year(int n);  // add n years
         Date &add_month(int n); // add n months
@@ -45,7 +49,7 @@ namespace Chrono
     bool operator==(const Date &a, const Date &b);
     bool operator!=(const Date &a, const Date &b);
     const Date &default_date();                      // the default date
-    ostream &operator<<(ostream &os, const Date &d); // print d to os
-    istream &operator>>(istream &is, Date &d);       // read Date from is into d
+    std::ostream &operator<<(std::ostream &os, const Date &d); // print d to os
+    std::istream &operator>>(std::istream &is, Date &d);       // read Date from is into d
 } // namespace Chrono
 #endif
