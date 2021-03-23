@@ -12,9 +12,6 @@ int main(){
     e1.last_name = "kattarmala";
     e1.dob = "15/05/1967";
     PrintEmployee(e1);
-
-
-
     return 0;
 }
 
