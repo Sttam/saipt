@@ -1,0 +1,1 @@
+/bin/x86_64-linux-gnu-g++-9  -g   CMakeFiles/s20_0101.dir/src/s20_0101.cpp.o  -o s20_0101 

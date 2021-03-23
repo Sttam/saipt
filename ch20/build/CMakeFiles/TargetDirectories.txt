@@ -1,0 +1,9 @@
+/media/sf_share/saipt/ch20/build/CMakeFiles/rebuild_cache.dir
+/media/sf_share/saipt/ch20/build/CMakeFiles/s20_0201.dir
+/media/sf_share/saipt/ch20/build/CMakeFiles/s20_0105.dir
+/media/sf_share/saipt/ch20/build/CMakeFiles/s20_0202.dir
+/media/sf_share/saipt/ch20/build/CMakeFiles/s20_0104.dir
+/media/sf_share/saipt/ch20/build/CMakeFiles/edit_cache.dir
+/media/sf_share/saipt/ch20/build/CMakeFiles/s20_0103.dir
+/media/sf_share/saipt/ch20/build/CMakeFiles/s20_0102.dir
+/media/sf_share/saipt/ch20/build/CMakeFiles/s20_0101.dir
