@@ -1,5 +1,5 @@
-#ifndef M16_002_HPP
-#define M16_002_HPP
+#ifndef S20_0102_HPP
+#define S20_0102_HPP
 #include <string>
 using namespace std;
 struct employee{
